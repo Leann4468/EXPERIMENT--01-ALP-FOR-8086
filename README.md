@@ -96,7 +96,8 @@ ret
 
 
 ### Output:
-![Addition](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/38a0497a-0729-47ac-98aa-932ed1cbcb2d)
+![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/ec03772c-0272-4448-a558-c5a51c43ca93)
+
 
 
  
@@ -115,7 +116,8 @@ mov [1424h],AH;
 ret                                                        
  
 ### Output: 
-![Subtraction](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/86ab92b2-3d3f-4724-a1cc-19292e084397)
+![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/9174dad0-98fb-424c-b7e8-14dc79002028)
+
 
 
 
@@ -134,7 +136,8 @@ mov [1334H],AX;
 ret                                                        
 
 ### Output:
-![Multiplication](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/40208594-9f04-4927-a478-ed7311fc1eea)
+![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/4a3d8a7e-b034-45fe-ab9c-4b5a42fb1125)
+
 
 
 
@@ -153,7 +156,8 @@ mov [1364H],AX;
 ret                                                        
 
 ### Output  
-![Division](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/b519056c-c5c7-420c-a756-c781bfbaf1b2)
+![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/8ffa346a-33d0-4736-bd14-0b89e2cbdc32)
+
 
 
 ## Result :
