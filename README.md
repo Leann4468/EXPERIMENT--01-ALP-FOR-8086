@@ -80,18 +80,14 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ### Addition  of 8 bit ALP 
-
+```python
 org 100H
-
 mov AH,0A2H;
-
 mov BH,0B3H;
-
 add AH,BH;
-
 mov [1554H],AH;
-
-ret                                                         
+ret
+```                                                       
 
 
 
@@ -103,18 +99,15 @@ ret
  
 ### Subtraction of 8 bit ALP
 
+```python
 org 100H
-
 mov AH,0C4H;
-
 mov BH,0B2H;
-
 sub AH,BH;
-
 mov [1424h],AH;
+ret
+```                                                      
 
-ret                                                        
- 
 ### Output: 
 ![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/9174dad0-98fb-424c-b7e8-14dc79002028)
 
@@ -123,17 +116,14 @@ ret
 
 ### Multiplication of 8 bit ALP
 
+```python
 org 100H
-
 mov AL,0C4H;
-
 mov BL,0B2H;
-
 mul BL;
-
 mov [1334H],AX;
-
-ret                                                        
+ret
+```                                                     
 
 ### Output:
 ![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/4a3d8a7e-b034-45fe-ab9c-4b5a42fb1125)
@@ -143,17 +133,14 @@ ret
 
 ### Division of 8 bit ALP
 
+```python
 org 100H
-
 mov AL,0D5H;
-
 mov BL,0A2H;
-
 div BL;
-
 mov [1364H],AX;
-
 ret                                                        
+```
 
 ### Output  
 ![image](https://github.com/Leann4468/EXPERIMENT--01-ALP-FOR-8086/assets/121165979/8ffa346a-33d0-4736-bd14-0b89e2cbdc32)
