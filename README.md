@@ -1,14 +1,9 @@
-# EXPERIMENT 01: ALP FOR 8086
+```PYTHON
 Name : LEANN JOBY MATHEW
-
 Roll no : 212222230074
+```
 
-Date of experiment :
-
-
-
-
-
+# EXPERIMENT 01: ALP FOR 8086
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
